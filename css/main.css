@@ -1,0 +1,32 @@
+
+.js-box{
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  gap: 30px;
+  margin-bottom: 5px;
+}
+
+.js-list{
+  width: 900px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 10px;
+}
+
+.js-img{
+  margin-bottom: 20px;
+}
+
+.js-name{
+  margin: 0;
+}
+
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
